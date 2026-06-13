@@ -23,7 +23,7 @@ This project analyzes supermarket sales data using Microsoft Excel and presents 
 - Tracked overall sales trends.
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+https://github.com/tranhuynhnhust21-hue/supermarket-sales-excel-dashboard-project/blob/main/Screenshot%202026-06-11%20004101.png
 
 ## Files Included
 - Supermarket_Sales_Dashboard.xlsx
